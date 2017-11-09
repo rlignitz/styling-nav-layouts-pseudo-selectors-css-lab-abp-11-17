@@ -37,7 +37,7 @@ nav a:hover {
 }
 
 #example-id a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #header a{
