@@ -36,6 +36,10 @@ nav a:hover {
   color: #0056b3;
 }
 
+#example-id:hover {
+  text-decoration: none;
+}
+
 #header a{
   text-decoration: none;
   color: #868e96;
